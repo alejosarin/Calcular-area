@@ -6,7 +6,10 @@ public class Circulo extends Figura
     
     public Circulo(double radio)
     {
+        super();
         this.radio =radio;
+        
+        
     }
 
     public void areaC()

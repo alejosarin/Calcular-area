@@ -7,6 +7,7 @@ public class Rectangulo extends Figura
 
     public Rectangulo(double base, double altura) 
     {
+        super();
         this.base = base;
         this.altura = altura;
     }
